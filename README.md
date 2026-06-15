@@ -1,1 +1,6 @@
 # Price-Range-Distribution
+The price range distribution analysis was performed to understand how restaurants are categorized based on their pricing levels. The dataset contains a Price Range column where restaurants are classified into different categories ranging from low-cost to high-cost dining options.
+The analysis revealed that the majority of restaurants belong to the lower and moderate price ranges, indicating that affordable dining options are more common. A smaller proportion of restaurants fall into the higher price ranges, suggesting that premium and luxury dining establishments are less prevalent in the dataset.
+By visualizing the distribution using a bar chart, it becomes easier to identify the most common pricing category and compare the proportions of restaurants across different price ranges. This analysis provides valuable insights into customer affordability preferences and the overall market positioning of restaurants in the dataset.
+<img width="517" height="162" alt="task3_ price range distribution output" src="https://github.com/user-attachments/assets/e84f476d-cab6-4437-994e-471fdc73c527" />
+<img width="1920" height="1080" alt="Task3_ barchart" src="https://github.com/user-attachments/assets/02976d3f-7473-45c9-88f8-f08bc519a126" />
